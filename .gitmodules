@@ -1,0 +1,3 @@
+[submodule "themes/hugo-eng-theme"]
+	path = themes/hugo-eng-theme
+	url = https://github.com/engilyin/hugo-eng-theme.git

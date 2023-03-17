@@ -1,0 +1,8 @@
+baseURL = '/'
+languageCode = 'en'
+title = 'Remember Words app'
+themesDir = "themes"
+theme = "hugo-eng-theme"
+
+
+disableKinds=["RSS", "sitemap"]
