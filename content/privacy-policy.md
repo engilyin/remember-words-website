@@ -12,6 +12,10 @@ If you installed this application from Google Play, then Google Play does collec
 
 This Service may contain links or access to other sites and services. Note that these external sites/services are not operated by me. Therefore, I strongly advise you to review the Privacy Policy of these websites. I have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
 
+## Google Text To Speech
+
+This app is using `Google Text To Speech` technology. So the info entered into this app may be transmitted onto Google services including `Text To Speech` engine. Please address all question and concerns regarding these technologies to Google because I have no any control over it and the app just does standard publicly documented API calls. 
+
 ## Changes to This Privacy Policy
 
 I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page.
